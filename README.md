@@ -40,4 +40,8 @@ Run the program:
 
 ## Author
 
+Muhammad Subhan
+
+GitHub: https://github.com/techsubhan
+
 
